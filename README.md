@@ -6,7 +6,7 @@ This is the repository for our group project in Emerging Technologies. It is a g
 ###### Jason McTigue G00312233
 ###### Darren Fitzpatrick G00311853 
 
-###Technologies Used:
+### Technologies Used:
 + Html, Java Script, Css
 + Bootstrap,
 + JQuery
